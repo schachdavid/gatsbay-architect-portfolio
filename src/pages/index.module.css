@@ -1,0 +1,11 @@
+.navContainer {
+  flex: 1;
+  display: flex;
+  align-items: center;
+}
+
+.projectCard {
+  width: 100%;
+  overflow: hidden;
+  max-width: 80rem;
+}

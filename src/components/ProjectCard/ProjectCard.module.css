@@ -1,0 +1,23 @@
+.projectCard {
+  display: flex;
+  flex-direction: row;
+  color: inherit;
+  text-decoration: none; /* no underline */
+  padding-top: 0.5rem;
+  font-family: 'Playfair Display', serif;
+  font-size: 1.5rem;
+}
+
+.projectName {
+  writing-mode: tb-rl;
+  margin-top: 0.7rem;
+  margin-left: -1rem;
+}
+
+.projectCard img {
+  width: calc(100% - 5rem);
+  max-width: 2000px;
+}
+
+.projectCard img:hover {
+}

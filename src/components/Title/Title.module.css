@@ -1,0 +1,12 @@
+.title {
+  font-family: 'Playfair Display', serif;
+  font-size: 3rem;
+  max-width: 15rem;
+  margin-left: 4rem;
+  margin-top: 2rem;
+}
+
+.link {
+  color: inherit;
+  text-decoration: none; /* no underline */
+}
