@@ -9,7 +9,15 @@
 
 > A starter kit for TypeScript-based Gatsby projects with sensible defaults.
 
+<p align="center">
+    <img alt="DemoImage" src="https://user-images.githubusercontent.com/45998057/81093552-8f978580-8f02-11ea-9744-8ff11265f1b7.png" width="500" />
+</p>
+
+
+
 This is a starter kit for [Gatsby.js](https://www.gatsbyjs.org/) websites written in TypeScript. It includes the bare essentials for you to get started (styling, Markdown parsing, minimal toolset).
+
+
 
 ## 🗒️ Features
 
