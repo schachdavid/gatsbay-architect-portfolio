@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-  gatsby-starter-typescript-plus
+  gatsbay-architect-portfolio
 </h1>
 
 > A starter kit for TypeScript-based Gatsby projects with sensible defaults.
