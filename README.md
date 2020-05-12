@@ -4,7 +4,7 @@
   </a>
 </p>
 <h1 align="center">
-  gatsbay-architect-portfolio
+  gatsby-architect
 </h1>
 
 > A starter kit for TypeScript-based Gatsby projects with sensible defaults.
@@ -41,7 +41,7 @@ This is a starter kit for [Gatsby.js](https://www.gatsbyjs.org/) websites writte
     Use the `gatsby-cli` to create a new site and install its dependencies.
 
     ```bash
-    gatsby new project-name https://github.com/schachdavid/gatsby-architect-portfolio
+    gatsby new project-name https://github.com/schachdavid/gatsby-architect
     ```
 
 2.  **Start developing.**

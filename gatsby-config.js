@@ -1,5 +1,5 @@
 module.exports = {
-  pathPrefix: '/gatsby-architect-portfolio',
+  pathPrefix: '/gatsby-architect',
   siteMetadata: {
     title: 'Felipe González',
     description: 'Portfolio de ',
