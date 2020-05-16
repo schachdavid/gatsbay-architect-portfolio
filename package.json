@@ -1,5 +1,6 @@
 {
-  "name": "gatsby-starter-architect",
+  "name": "gatsby-architect",
+  "homepage": "http://schachdavid.github.io/gatsby-architect",
   "description": "A starter kit for an architects webpage.",
   "version": "0.0.1",
   "private": true,
@@ -12,6 +13,7 @@
   "scripts": {
     "build": "gatsby build",
     "clean": "rimraf public",
+    "deploy-ci": "gatsby build --prefix-paths && gh-pages -d public -r https://$GH_TOKEN@github.com/schachdavid/gatsby-architect.git",
     "deploy": "gatsby build --prefix-paths && gh-pages -d public",
     "dev": "gatsby develop",
     "format": "prettier --write \"src/**/*.{ts,tsx,md}\"",

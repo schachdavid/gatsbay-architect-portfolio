@@ -1,4 +1,5 @@
 module.exports = {
+  pathPrefix: '/gatsby-architect',
   siteMetadata: {
     title: 'Felipe González',
     description: 'Portfolio de ',
@@ -54,4 +55,4 @@ module.exports = {
     'gatsby-transformer-sharp',
     'gatsby-plugin-react-helmet'
   ]
-}
+};
